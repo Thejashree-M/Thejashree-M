@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is THEJASHREE M
 ====================================================================================================================================
 
-Aspiring Data Scientist
+Aspiring Data Scientist | Python Sql Tableau ML |
 -----------------------
 
 Being a Biotechnology graduate, I started learning Python, SQL, Tableau and focusing more on Machine Learning algorithms after I realized my passion towards Data Science. Also upgrading my skills with advanced techniques like NLP, Forecasting and AI.
