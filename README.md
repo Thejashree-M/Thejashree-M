@@ -17,6 +17,10 @@ Being a Biotechnology graduate, I started learning Python, SQL, Tableau and focu
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
+1. Knowledge on Python, Sql, Tableau
+2. In depth understanding Machine learning algorithms along with good knowledge on NLP and Deep learning.
+3. Done a project on 'Bankruptcy Prevention', where i did EDA, model building using Logistic Regression, Decision Tree, KNN, Random Forest, and Support Vector Machines and validated with K fold cross validation and coccluded with Random Forest as a best model in making prediction with 99 % accuracy.
+
 
 ### Socials
 
