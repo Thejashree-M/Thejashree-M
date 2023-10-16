@@ -32,7 +32,6 @@ Being a Biotechnology graduate, I started learning Python, SQL, Tableau and focu
 
 <a href="http://www.github.com/Thejashree-M"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Thejashree-M&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Thejashree-M"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Thejashree-M&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <b>Top Repositories</b>
 
