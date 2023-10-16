@@ -34,10 +34,3 @@ Being a Biotechnology graduate, I started learning Python, SQL, Tableau and focu
 
 <div width="100%" align="center"><a href="https://github.com/Thejashree-M/ML_Algorithms" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Thejashree-M&repo=ML_Algorithms&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/Thejashree-M"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
