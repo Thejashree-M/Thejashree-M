@@ -18,7 +18,7 @@ Being a Biotechnology graduate, I started learning Python, SQL, Tableau and focu
 </p>
 
 1. Knowledge on Python, Sql, Tableau
-2. In depth understanding on Machine learning algorithms along with good knowledge on NLP and Deep learning.
+2. In depth understanding on Machine learning algorithms along with good knowledge on NLP and Forecasting.
 3. Have done a project on 'Bankruptcy Prevention', where performed EDA, model building using Logistic Regression, Decision Tree, KNN, Random Forest, and Support Vector Machines and validated the models using  K fold cross validation and concluded with Random Forest as the best model in making prediction with 99 % accuracy.
 
 
