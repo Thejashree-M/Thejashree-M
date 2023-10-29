@@ -4,7 +4,7 @@ Hi 👋 My name is THEJASHREE M
 Aspiring Data Scientist | Python Sql Tableau ML |
 -----------------------
 
-Being a Biotechnology graduate, I started learning Python, SQL, Tableau and focusing more on Machine Learning algorithms after I realized my passion towards Data Science. Also upgrading my skills with advanced techniques like NLP, Forecasting and AI.
+Being a Biotechnology graduate with strong academic track record, I started learning Python, SQL, Tableau and focusing more on Machine Learning algorithms after I realized my passion towards Data Science. Also upgrading my skills with advanced techniques like NLP, Forecasting and AI.
 
 * 🌍  I'm based in Bangalore, Karnataka, India
 * ✉️  You can contact me at [thejashreem14@gmail.com](mailto:thejashreem14@gmail.com)
