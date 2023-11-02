@@ -4,7 +4,7 @@ Hi 👋 My name is THEJASHREE M
 Aspiring Data Scientist | Python | Sql | Tableau | ML |
 -----------------------
 
-I'm a Biotechnology graduate with strong academic track record. I started learning Python, SQL, Tableau and focusing more on Machine Learning algorithms after I realized my passion towards Data Science. Now upgrading my skills with advanced techniques like NLP, Forecasting and AI.
+A recent Biotechnology graduate with a passion for Data Science. I'm on a journey to explore the vast world of data, turning into actionable insights. My goal is to contribute towards solving real world data problems and make an impact in the field of Data Science.
 
 * 🌍  I'm based in Bangalore, Karnataka, India
 * ✉️  You can contact me at [thejashreem14@gmail.com](mailto:thejashreem14@gmail.com)
@@ -17,9 +17,11 @@ I'm a Biotechnology graduate with strong academic track record. I started learni
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
+
 1. Knowledge on Python, Sql, Tableau.
-2. In depth understanding of Machine learning algorithms along with good knowledge on NLP and Forecasting.
-3. Have done a classification project on 'Bankruptcy Prevention', where performed EDA, build ML model using Logistic Regression, Decision Tree, KNN, Random Forest, and Support Vector Machines and validated the models using K fold cross validation and achieved accuracy rates consistently above 90% for all the models.
+2. Data analysis, Data preprocessing and visualizations.
+3. In depth understanding of Machine learning algorithms along with good knowledge on NLP and Forecasting.
+4. Have done a classification project on 'Bankruptcy Prevention', where performed EDA, build ML model using Logistic Regression, Decision Tree, KNN, Random Forest, and Support Vector Machines and validated the models using K fold cross validation and achieved accuracy rates consistently above 90% for all the models.
 
 ### Socials
 
