@@ -8,7 +8,7 @@ A recent Biotechnology graduate with a passion for Data Science. I'm on a journe
 
 * 🌍  I'm based in Bangalore, Karnataka, India
 * ✉️  You can contact me at [thejashreem14@gmail.com](mailto:thejashreem14@gmail.com)
-* 🧠  I'm learning : NLP, Forecasting and Deep Learning
+* 🧠  I'm learning : NLP, Time Series Forecasting and Deep Learning
 
 ### Skills
 
