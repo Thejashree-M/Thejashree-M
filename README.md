@@ -20,7 +20,7 @@ A recent Biotechnology graduate with a passion for Data Science. I'm on a journe
 
 1. Knowledge on Python, Sql, Tableau.
 2. Data analysis, Data preprocessing and visualizations.
-3. In depth understanding of Machine learning algorithms along with good knowledge on NLP and Forecasting.
+3. In depth understanding of Machine learning algorithms along with good knowledge on Time Series Forecasting.
 4. Have done a classification project on 'Bankruptcy Prevention', where performed EDA, build ML model using Logistic Regression, Decision Tree, KNN, Random Forest, and Support Vector Machines and validated the models using K fold cross validation and achieved accuracy rates consistently above 90% for all the models.
 
 ### Socials
