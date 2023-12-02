@@ -1,14 +1,13 @@
 Hi 👋 My name is THEJASHREE M
 ====================================================================================================================================
 
-Aspiring Data Scientist | Python | Sql | Tableau | ML |
+Aspiring Data Analyst | Python | Sql | Tableau | PowerBI | ML |
 -----------------------
 
-A recent Biotechnology graduate with a passion for Data Science. I'm on a journey to explore the vast world of data, turning into actionable insights. My goal is to contribute towards solving real world data problems and make an impact in the field of Data Science.
+A Biotechnology graduate with strong passion for analyzing and visualizing data using SQL, Python, Tableau, and PowerBI. I possess strong statistical background that facilitates in insightful data interpretation. Strong communicator with a passion for translating data into actionable strategies..
 
 * 🌍  I'm based in Bangalore, Karnataka, India
 * ✉️  You can contact me at [thejashreem14@gmail.com](mailto:thejashreem14@gmail.com)
-* 🧠  I'm learning : NLP, Time Series Forecasting and Deep Learning
 
 ### Skills
 
@@ -18,10 +17,9 @@ A recent Biotechnology graduate with a passion for Data Science. I'm on a journe
 </p>
 
 
-1. Knowledge on Python, Sql, Tableau.
+1. Knowledge on Python, Sql, Tableau, PowerBI.
 2. Data analysis, Data preprocessing and visualizations.
-3. In depth understanding of Machine learning algorithms along with good knowledge on Time Series Forecasting.
-4. Have done a classification project on 'Bankruptcy Prevention', where performed EDA, build ML model using Logistic Regression, Decision Tree, KNN, Random Forest, and Support Vector Machines and validated the models using K fold cross validation and achieved accuracy rates consistently above 90% for all the models.
+3. Knowledge on Machine learning algorithms.
 
 ### Socials
 
